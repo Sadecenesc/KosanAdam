@@ -1,0 +1,14 @@
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\bin\Debug\KosanAdam.exe.config
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\bin\Debug\KosanAdam.exe
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\bin\Debug\KosanAdam.pdb
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.csproj.AssemblyReference.cache
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.Properties.Resources.resources
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.csproj.GenerateResource.cache
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.exe
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.pdb
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.ana.resources
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.Level1.resources
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.Level2.resources
+C:\Users\ENES\source\repos\KosanAdam\KosanAdam\obj\Debug\KosanAdam.Form3.resources
